@@ -1,0 +1,29 @@
+{
+    "data": [
+      {
+        "title": "Riding Boots",
+        "number": "3",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Riding_Gear/riding-boots-on-rent-sharepal-1_u9LdE2uUwN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677593445222",
+        "data_id": 104
+      },
+      {
+        "title": "Riding Essentials",
+        "number": "5",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Riding_Gear/riding-essentials-on-rent-sharepal-1_TvbPgFRx_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677593445269",
+        "data_id": 105
+      },
+      {
+        "title": "Riding Luggage",
+        "number": "6",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Riding_Gear/riding-luggage-on-rent-sharepal-1__2__F4oWFG25m.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677661982913",
+        "data_id": 106
+      },
+      {
+        "title": "Riding Jackets",
+        "number": "2",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Riding_Gear/riding-jackets-on-rent-sharepal-1_0zlIz0TWp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677661294392",
+        "data_id": 107
+      }
+    ]
+}
+  

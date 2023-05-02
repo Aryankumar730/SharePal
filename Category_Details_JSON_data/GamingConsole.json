@@ -1,0 +1,35 @@
+{
+    "data": [
+      {
+        "title": "PS5 Console",
+        "number": "4",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Gaming_Console/ps5-console-on-rent-sharepal-1_jv16GPONlc.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677594574115",
+        "data_id": 118
+      },
+      {
+        "title": "Projectors",
+        "number": "2",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Gaming_Console/Projectors-on-rent-sharepal-1_JZDMFzjli.png?updatedAt=1680247292238",
+        "data_id": 119
+      },
+      {
+        "title": "PS4 Console",
+        "number": "4",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Gaming_Console/ps4-console-on-rent-sharepal-1_DD9Y2dpAFr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677594574112",
+        "data_id": 120
+      },
+      {
+        "title": "Xbox Console",
+        "number": "2",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Gaming_Console/xbox-console-on-rent-sharepal-1_5SFHN4iK-F.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677594574132",
+        "data_id": 121
+      },
+      {
+        "title": "Gaming Controllers",
+        "number": "2",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Gaming_Console/gaming-controllers-on-rent-sharepal-1_6Fh7RYyhRQ.png?updatedAt=1677594574131",
+        "data_id": 122
+      }
+    ]
+  }
+  

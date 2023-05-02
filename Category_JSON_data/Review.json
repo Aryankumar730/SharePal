@@ -1,0 +1,53 @@
+
+{
+  "data": [
+    {
+      "name": "Afrana",
+      "city": "Bangalore",
+      "product": "Gaming Console",
+      "Remark_Header": "Great renting experience",
+      "Remark": "Have used their services twice now. They never disappoint. Quick responses, polite, transparent, hassle free, great products as well. Rented trekking gear and PS4. Thanks Sharepal! Cheers to you guys!",
+      "data_id": 50
+    },
+    {
+      "name": "Kiran",
+      "city": "Bangalore",
+      "product": "Riding Gear",
+      "Remark_Header": "Quality products",
+      "Remark": "It is an amazing service, starting from the quality of the gear provided to the pickup and drop at doorstep facility. The staff is extremely helpful and supportive. The jacket was freshly washed and the shoes provided were brand new. The refund for the deposit was also processed immediately. We had no clue that this kind of service existed in India, SharePal.",
+      "data_id": 51
+    },
+    {
+      "name": "Amal",
+      "city": "Bangalore",
+      "product": "Gaming Console",
+      "Remark_Header": "Affordable products",
+      "Remark": "I am a regular customer and order ps4 It’s very affordable and booking an order is super easy and user friendly website and polite staff.",
+      "data_id": 52
+    },
+    {
+      "name": "Mayank",
+      "city": "Bangalore",
+      "product": "Action Cameras",
+      "Remark_Header": "Good products",
+      "Remark": "I rented GoPro Hero 10 , talking about gadget nicely packed and top quality. Also refund process is very much simple and trustworthy.",
+      "data_id": 53
+    },
+    {
+      "name": "Nitika",
+      "city": "Bangalore",
+      "product": "Trekking Gear",
+      "Remark_Header": "Hassle-free service",
+      "Remark": "It was a great experience with SharePal. Hassle-free renting of gears at a reasonable cost. The materials rented for my Winter trek were of great quality and were perfect for the trek. It's great that they also have a delivery n pickup option. I highly recommend SharePal to all.",
+      "data_id": 54
+    },
+    {
+      "name": "Poornesh",
+      "city": "Bangalore",
+      "product": "Cameras",
+      "Remark_Header": "Top-notch Quality",
+      "Remark": "Rented a camera and gimbal for a day ! The experience was very smooth and hassle free . The equipment’s were top notch and maintained really well ! Overall great place to rent and would recommend it to all My friends.",
+      "data_id": 55
+    }
+  ]
+}

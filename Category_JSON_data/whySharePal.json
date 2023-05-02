@@ -1,0 +1,41 @@
+
+{
+  "data": [
+    {
+      "title": "Quality Products",
+      "details": "Every product you rent is fully functional & in excellent condition.",
+      "image_url": "../../../../assets/icons/1st.png",
+      "data_id": 21
+    },
+    {
+      "title": "Simple Pricing",
+      "details": "Daily, weekly & monthly rental plans. Rent longer, Pay lesser:)",
+      "image_url": "https://ik.imagekit.io/faskf16pg/Home/sharepal-benefits-5_NPhNWdKx8m.svg?updatedAt=1679261066112",
+      "data_id": 22
+    },
+    {
+      "title": "Pay on Delivery",
+      "details": "Just pay 10% advance & reserve. Pay the balance upon delivery.",
+      "image_url": "https://ik.imagekit.io/faskf16pg/Home/sharepal-benefits-6_m4ThMgGjTP.svg?updatedAt=1679261066129",
+      "data_id": 23
+    },
+    {
+      "title": "Quick & Hassle-free",
+      "details": "Simply order online & relax. Enjoy doorstep delivery & pick-up.",
+      "image_url": "https://ik.imagekit.io/faskf16pg/Home/sharepal-benefits-4_0Ezx6myOO.svg?updatedAt=1679261066106",
+      "data_id": 24
+    },
+    {
+      "title": "Customer Friendly",
+      "details": "Friendly & customer-centric team to help every step of the way.",
+      "image_url": "https://ik.imagekit.io/faskf16pg/Home/sharepal-benefits-2_EqXpAQJnu.svg?updatedAt=1679261066070",
+      "data_id": 25
+    },
+    {
+      "title": "Safe & Sanitised",
+      "details": "Enjoy a safe & pleasant renting experience, always.",
+      "image_url": "https://ik.imagekit.io/faskf16pg/Home/sharepal-benefits-1_RPzIPZmpr4.svg?updatedAt=1679261066140",
+      "data_id": 26
+    }
+  ]
+}

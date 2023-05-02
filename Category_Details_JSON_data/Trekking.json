@@ -1,0 +1,29 @@
+{
+    "data": [
+      {
+        "title": "Trekking Shoes",
+        "number": "3",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Trekking_Gear/trekking-shoes-on-rent-sharepal-1_g3GKYTly_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677592287513",
+        "data_id": 100
+      },
+      {
+        "title": "Trekking Jackets",
+        "number": "10",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Trekking_Gear/trekking-jackets-on-rent-sharepal-1_g8LJhtikw.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677660911615",
+        "data_id": 101
+      },
+      {
+        "title": "Trek Accessories",
+        "number": "11",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Trekking_Gear/trek-accessories-on-rent-sharepal-1_jpxy-PJdk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677592287549",
+        "data_id": 102
+      },
+      {
+        "title": "Trekking Backpacks",
+        "number": "4",
+        "image_url": "https://ik.imagekit.io/faskf16pg/sub_category/Trekking_Gear/backPacks-on-rent-sharepal-1_l1H4tIGXW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677592287156",
+        "data_id": 103
+      }
+    ]
+  }
+  

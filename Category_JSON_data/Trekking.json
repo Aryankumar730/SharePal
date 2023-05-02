@@ -1,0 +1,84 @@
+{
+    "data": [
+      {
+        "title": "70L Backpack",
+        "details": "Carrying comfort; Easy access; Theft Resistant",
+        "price": "569",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/70Lbackpack-on-rent-0_q3MuPaJw-Y.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1670429369146",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trekking-backpacks/travel-backpack-70l-on-rent",
+        "data_id" : 731
+      },
+      {
+        "title": "Rain Jacket",
+        "details": "Lightweight; Compact; Attached hood",
+        "price": "199",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/rain-jacket-on-rent-1_ROkN-4qIu.webp?updatedAt=1627650077888",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trekking-jackets/rain-jacket-on-rent",
+        "data_id" : 732
+      },
+      {
+        "title": "Women 3x1 Jacket - 0°C",
+        "details": "Warm(-5°C); Waterproof; Windproof",
+        "price": "399",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/womens-3in1-jacket-on-rent-1_6UWVC1XW3yK.webp?updatedAt=1627650038010",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trekking-jackets/women-3x1-jacket-on-rent",
+        "data_id" : 733
+      },
+      {
+        "title": "SH520 Snow Shoes",
+        "details": "Snowproof; Full-Ankle; Cross-Contact Grip",
+        "price": "799",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/mens-snow-hiking-shoes-on-rent-3_PE--Phfoj.webp?updatedAt=1627650068584",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trekking-shoes/sh520-snow-shoes-on-rent",
+        "data_id" : 734
+      },
+      {
+        "title": "Headtorch",
+        "details": "Wide beam; Adjustable head band",
+        "price": "99",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/21_J49N5CUXiW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659634881230",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trek-accessories/headtorch-on-rent",
+        "data_id" : 735
+      },
+      {
+        "title": "70L Backpack",
+        "details": "Carrying comfort; Easy access; Theft Resistant",
+        "price": "569",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/70Lbackpack-on-rent-0_q3MuPaJw-Y.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1670429369146",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trekking-backpacks/travel-backpack-70l-on-rent",
+        "data_id" : 736
+      },
+      {
+        "title": "Rain Jacket",
+        "details": "Lightweight; Compact; Attached hood",
+        "price": "199",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/rain-jacket-on-rent-1_ROkN-4qIu.webp?updatedAt=1627650077888",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trekking-jackets/rain-jacket-on-rent",
+        "data_id" : 737
+      },
+      {
+        "title": "Women 3x1 Jacket - 0°C",
+        "details": "Warm(-5°C); Waterproof; Windproof",
+        "price": "399",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/womens-3in1-jacket-on-rent-1_6UWVC1XW3yK.webp?updatedAt=1627650038010",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trekking-jackets/women-3x1-jacket-on-rent",
+        "data_id" : 738
+      },
+      {
+        "title": "SH520 Snow Shoes",
+        "details": "Snowproof; Full-Ankle; Cross-Contact Grip",
+        "price": "799",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/mens-snow-hiking-shoes-on-rent-3_PE--Phfoj.webp?updatedAt=1627650068584",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trekking-shoes/sh520-snow-shoes-on-rent",
+        "data_id" : 739
+      },
+      {
+        "title": "Headtorch",
+        "details": "Wide beam; Adjustable head band",
+        "price": "99",
+        "image_url": "https://ik.imagekit.io/faskf16pg/Trekking_Gear/21_J49N5CUXiW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659634881230",
+        "site_link": "https://sharepal.in/bangalore/trekking-gear/trek-accessories/headtorch-on-rent",
+        "data_id" : 740
+      }      
+    ]
+  }

@@ -1,0 +1,85 @@
+{
+    "data": [
+      {
+        "title": "Grand Theft Auto V PS4",
+        "details": "Shooting game; Single player mode",
+        "price": "209",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/ps4-games-on-rent-gta-5__xpuD_AWi.webp",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/rpg/grand-theft-auto-v-ps4",
+        "data_id" : 11
+      },
+      {
+        "title": "Horizon Zero Dawn PS4",
+        "details": "Post Apocalypse; Single player mode",
+        "price": "209",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/ps4-games-on-rent-horizon-zero-dawn_xUrakJ7Aj.webp",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/rpg/horizon-zero-dawn-ps4",
+        "data_id" : 12
+      },
+      {
+        "title": "PUBG PS4",
+        "details": "Survival Battle; Multiplayer mode",
+        "price": "209",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/ps4-games-on-rent-pubg_Dwpq7bLq5x.webp",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/shooting/pubg-ps4",
+        "data_id" : 13
+      },
+      {
+        "title": "Cricket 22: International Edition PS4",
+        "details": "Sports, Multiplayer",
+        "price": "260",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/cricket-22-the-official-game-of-the-ashes-699101.5_o1FVooqH2.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1648566848114",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/sports/cricket-22:-international-edition-ps4",
+        "data_id" : 14
+      },
+      {
+        "title": "Resident Evil Village PS4",
+        "details": "Survival Horror; Single player",
+        "price": "250",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/ps4-games-on-rent-resident-evil_VtCb0GNBNs.webp?updatedAt=1617826885011",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/action-adventure/resident-evil-village-ps4",
+        "data_id" : 15
+      },
+      {
+        "title": "Grand Theft Auto V PS4",
+        "details": "Shooting game; Single player mode",
+        "price": "209",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/ps4-games-on-rent-gta-5__xpuD_AWi.webp",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/rpg/grand-theft-auto-v-ps4",
+        "data_id" : 16
+      },
+      {
+        "title": "Horizon Zero Dawn PS4",
+        "details": "Post Apocalypse; Single player mode",
+        "price": "209",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/ps4-games-on-rent-horizon-zero-dawn_xUrakJ7Aj.webp",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/rpg/horizon-zero-dawn-ps4",
+        "data_id" : 17
+      },
+      {
+        "title": "PUBG PS4",
+        "details": "Survival Battle; Multiplayer mode",
+        "price": "209",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/ps4-games-on-rent-pubg_Dwpq7bLq5x.webp",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/shooting/pubg-ps4",
+        "data_id" : 18
+      },
+      {
+        "title": "Cricket 22: International Edition PS4",
+        "details": "Sports, Multiplayer",
+        "price": "260",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/cricket-22-the-official-game-of-the-ashes-699101.5_o1FVooqH2.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1648566848114",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/sports/cricket-22:-international-edition-ps4",
+        "data_id" : 19
+      },
+      {
+        "title": "Resident Evil Village PS4",
+        "details": "Survival Horror; Single player",
+        "price": "250",
+        "image_url": "https://ik.imagekit.io/faskf16pg/PS4_Games/ps4-games-on-rent-resident-evil_VtCb0GNBNs.webp?updatedAt=1617826885011",
+        "site_link": "https://sharepal.in/bangalore/ps4-games/action-adventure/resident-evil-village-ps4",
+        "data_id" : 20
+      }
+      
+    ]
+  }

@@ -1,0 +1,85 @@
+{
+    "data": [
+      {
+        "title": "GoPro Hero 9",
+        "details": "SuperPhoto w/HDR, HyperSmooth 3.0",
+        "price": "999",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/gopro-camera-on-rent-hero-9-1_Br2oVZngi.webp?updatedAt=1627657004995",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/gopro-cameras/gopro-hero-9-on-rent",
+        "data_id" : 761
+      },
+      {
+        "title": "Shorty (Mini Tripod)",
+        "details": "Pocket sized; Extendable; Great for selfies",
+        "price": "199",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/gopro-mounts-on-rent-gopro-shorty-2_DSncx9ETS.webp?updatedAt=1627657030361",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/action-camera-mounts/shorty-(mini-tripod)",
+        "data_id" : 762
+      },
+      {
+        "title": "DJI OM5 Gimbal",
+        "details": "OM 5 takes a mere 1.5 hours to charge ; yields up to six hours of battery life ; lightweight gimbal",
+        "price": "899",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/DJI_OM_5_2_yMCQU_c3V.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1654267428941",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/gopro-and-mobile-gimbal/dji-om5-gimbal-on-rent",
+        "data_id" : 763
+      },
+      {
+        "title": "3 Way Mount",
+        "details": "3 in 1 Design: Camera Grip, Extension Arm, Tripod",
+        "price": "249",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/gopro-mounts-on-rent-gopro-3-way-mount-1_rdARxv9g_jC.webp?updatedAt=1627657022749",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/action-camera-mounts/3-way-mount",
+        "data_id" : 764
+      },
+      {
+        "title": "GoPro Hero 8",
+        "details": "SuperPhoto2.0, HyperSmooth2.0 Stabalisation",
+        "price": "849",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/gopro-camera-on-rent-hero-8-1_v2mjA9emmuE.webp?updatedAt=1627657020291",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/gopro-cameras/gopro-hero-8-on-rent",
+        "data_id" : 765
+      },
+      {
+        "title": "GoPro Hero 9",
+        "details": "SuperPhoto w/HDR, HyperSmooth 3.0",
+        "price": "999",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/gopro-camera-on-rent-hero-9-1_Br2oVZngi.webp?updatedAt=1627657004995",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/gopro-cameras/gopro-hero-9-on-rent",
+        "data_id" : 766
+      },
+      {
+        "title": "Shorty (Mini Tripod)",
+        "details": "Pocket sized; Extendable; Great for selfies",
+        "price": "199",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/gopro-mounts-on-rent-gopro-shorty-2_DSncx9ETS.webp?updatedAt=1627657030361",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/action-camera-mounts/shorty-(mini-tripod)",
+        "data_id" : 767
+      },
+      {
+        "title": "DJI OM5 Gimbal",
+        "details": "OM 5 takes a mere 1.5 hours to charge ; yields up to six hours of battery life ; lightweight gimbal",
+        "price": "899",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/DJI_OM_5_2_yMCQU_c3V.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1654267428941",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/gopro-and-mobile-gimbal/dji-om5-gimbal-on-rent",
+        "data_id" : 768
+      },
+      {
+        "title": "3 Way Mount",
+        "details": "3 in 1 Design: Camera Grip, Extension Arm, Tripod",
+        "price": "249",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/gopro-mounts-on-rent-gopro-3-way-mount-1_rdARxv9g_jC.webp?updatedAt=1627657022749",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/action-camera-mounts/3-way-mount",
+        "data_id" : 769
+      },
+      {
+        "title": "GoPro Hero 8",
+        "details": "SuperPhoto2.0, HyperSmooth2.0 Stabalisation",
+        "price": "849",
+        "image_url": "https://ik.imagekit.io/faskf16pg/gopro-cameras/gopro-camera-on-rent-hero-8-1_v2mjA9emmuE.webp?updatedAt=1627657020291",
+        "site_link": "https://sharepal.in/bangalore/action-cameras/gopro-cameras/gopro-hero-8-on-rent",
+        "data_id" : 770
+      }
+      
+    ]
+  }
